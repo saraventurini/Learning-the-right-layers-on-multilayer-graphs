@@ -19,7 +19,7 @@ Jupyter notebook divided in sections:
 
 ## Datasets
 - Synthetic: contains the synthetic datasets reported in the paper, generated using synthetic_datasets.
-- Real:
+- Real: \
 From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets \
 P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. In NeurIPS 2019.
 From https://bitbucket.org/uuinfolab/20csur/src/master/ \
