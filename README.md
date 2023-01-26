@@ -13,8 +13,8 @@ Jupyter notebook divided in sections:
 - Tests: functions to perform the tests in the paper.
 
 ## Matlab files
-- state_of_art_methods: applies the state of the art method over the same synthetic datasets.
-- state_of_art_methods_real: applies the state of the art method over the real datasets.
+- state_of_art_methods: applies the state-of-the-art methods over the same synthetic datasets.
+- state_of_art_methods_real: applies the state-of-the-art methods over the real datasets.
 - Utils: contains the functions used to calculate the accuracy of the final partition (confusion_matrix calculates the confusion matrix, reindex_com reindexes communities, wrong counts the number of nodes in the wrong community). 
 
 ## Datasets
