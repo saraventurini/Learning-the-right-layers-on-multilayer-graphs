@@ -22,7 +22,7 @@ Jupyter notebook divided in sections:
 - Real:
 From https://github.com/melopeo/PM_SSL/tree/master/realworld_datasets \
 P. Mercado, F. Tudisco, and M. Hein, Generalized Matrix Means for Semi-Supervised Learning with Multilayer Graphs. In NeurIPS 2019.
-From https://bitbucket.org/uuinfolab/20csur/src/master/
+From https://bitbucket.org/uuinfolab/20csur/src/master/ \
 Magnani, M., Hanteer, O., Interdonato, R., Rossi, L., & Tagarelli, A. (2021). Community detection in multiplex networks. ACM Computing Surveys (CSUR), 54(3), 1-35.
 
 ## State-of-the-art methods 
